@@ -1,5 +1,8 @@
 # Bot_discord
 
+PRIMEIRO BOT SENDO DESENVOLVIDO E TRABALHO VOLTADO TOTALMENTE PARA O DISCORD
+
+<hr>
 <p align="center">
     <img align="center" alt="FlopX8" height="144" width="144" src="https://cdn.discordapp.com/attachments/967973632787775597/967987146701037578/Sem_Titulo-1.png" />
 </p>
